@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a student at St. Lawrence University, double majoring in Global Studies and Psychology.
+
+
 <!--
 **jatom20/jatom20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
